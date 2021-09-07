@@ -1,0 +1,16 @@
+GET http://localhost:3000/endpoint1
+
+###
+
+GET http://localhost:3000/endpoint2
+
+###
+
+POST http://localhost:3000/endpoint3
+
+###
+
+POST http://localhost:3000/endpoint4
+
+###
+GET http://localhost:3000/logreturn

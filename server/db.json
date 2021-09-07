@@ -1,0 +1,25 @@
+{
+    "log": [
+        "2021-09-07T13:34:07.705Z /endpoint1 accessed",
+        "2021-09-07T13:36:34.014Z /endpoint2 accessed",
+        "2021-09-07T13:36:40.539Z /endpoint3 accessed",
+        "2021-09-07T13:36:42.174Z /endpoint4 accessed",
+        "2021-09-07T13:37:59.844Z /logreturn accessed",
+        "2021-09-07T13:41:21.959Z /logreturn accessed",
+        "2021-09-07T13:41:44.313Z /logreturn accessed",
+        "2021-09-07T13:42:48.589Z /logreturn accessed",
+        "2021-09-07T13:51:48.684Z /endpoint4 accessed",
+        "2021-09-07T13:52:06.319Z /endpoint4 accessed",
+        "2021-09-07T13:52:56.050Z /endpoint4 accessed",
+        "2021-09-07T13:53:05.290Z /endpoint4 accessed",
+        "2021-09-07T13:53:12.066Z /endpoint4 accessed",
+        "2021-09-07T13:53:12.066Z /endpoint4 accessed",
+        "2021-09-07T13:53:16.724Z /endpoint4 accessed",
+        "2021-09-07T13:53:18.958Z /endpoint4 accessed",
+        "2021-09-07T13:54:25.079Z /endpoint4 accessed",
+        "2021-09-07T13:54:31.619Z /endpoint4 accessed",
+        "2021-09-07T13:54:39.394Z /endpoint4 accessed",
+        "2021-09-07T13:54:57.510Z /endpoint1 accessed"
+
+    ]
+}
